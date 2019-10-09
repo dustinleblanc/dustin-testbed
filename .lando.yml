@@ -1,0 +1,6 @@
+name: dustin-testbed
+recipe: pantheon
+config:
+  framework: drupal8
+  site: dustin-testbed
+  id: 2ffd2a98-417c-4510-a74b-adfc7a56a5f7
