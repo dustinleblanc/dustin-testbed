@@ -1,4 +1,4 @@
-uuid: 4ade943a-2b8c-4664-93f6-63a63371a71c
+uuid: f7f5786b-4329-461a-bc55-8420f4b1afca
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - dustin.m.leblanc@gmail.com
+  - dustin@thinktandem.io
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
